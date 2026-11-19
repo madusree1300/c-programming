@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+    int a,b;
+    scanf("%d%d",&a,&b);//a=12 b=3
+    if(a>b)//
+    printf("greatest value is =%d",a);
+    else
+    printf("greatest value is=%d",b);
+}
