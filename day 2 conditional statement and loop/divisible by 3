@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main()
+{
+  int a;
+  scanf("%d",&a);
+  if(a%3==0)
+  printf("divisible by 3");
+  else
+  printf("not divisible by 3 and remainder is %d",a%3);
+}

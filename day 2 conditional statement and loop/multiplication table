@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    int  t,n,i;
+    scanf("%d%d",&t,&n);
+    for(i=1;i<=n;i++)
+    printf("%d * %d = %d\n",i,t,i*t);
+}
