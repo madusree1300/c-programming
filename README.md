@@ -1,4 +1,4 @@
-# C Programming Basics
+# DAY 1 C Basics
 
 A collection of beginner-friendly C programs covering fundamental data types, string handling, conditional logic (`if-else` statements), and loops (`for` loops).
 
@@ -8,6 +8,9 @@ A collection of beginner-friendly C programs covering fundamental data types, st
 * **`float program`** — Demonstrates declaring, reading, and displaying floating-point numbers.
 * **`string program`** — Shows basic string input and output handling in C.
 * **`string program highlight`** — Illustrates formatted or highlighted string manipulation and display.
+
+
+# DAY 2 conditional statements and loops
 
 ### Conditional Statements (`if-else`)
 * **`if statement`** — Introduces basic decision-making using simple `if` conditions.
@@ -26,3 +29,6 @@ A collection of beginner-friendly C programs covering fundamental data types, st
 * **`to find long number factor`** — Calculates factors for larger numbers using appropriate data types (such as `long` or `long long`).
 * **`multiplication table`** — Generates and prints the multiplication table for a given number.
 * **`counting numbers`** — Counts numbers or digits sequentially using loop logic.
+
+
+
